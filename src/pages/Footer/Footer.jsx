@@ -7,7 +7,7 @@ function Footer() {
 
       <div className="social-icons">
         <a
-          href="https://github.com/your-github-username"
+          href="https://github.com/vishnu07734"
           target="_blank"
           rel="noreferrer"
         >
@@ -15,7 +15,7 @@ function Footer() {
         </a>
 
         <a
-          href="https://linkedin.com/in/your-linkedin-id"
+          href="https://linkedin.com/in/vishnu-vardhan-7990v6"
           target="_blank"
           rel="noreferrer"
         >
